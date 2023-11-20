@@ -15,7 +15,7 @@ Danny's got questions, and SQL is the answer! From total spending to favorite me
 ### 💻 Data Setup
 I chose MySQL for this adventure and set up the `dannys_diner` schema. The tables (`sales`, `menu`, and `members`) hold the key to unlocking culinary insights.
 
-(https://user-images.githubusercontent.com/122122868/235795294-12db5378-c505-495d-a6fa-376958011783.PNG)
+![DATA SET](https://user-images.githubusercontent.com/122122868/235795294-12db5378-c505-495d-a6fa-376958011783.PNG)
 ```sql
 CREATE SCHEMA dannys_diner;
 USE dannys_diner;
