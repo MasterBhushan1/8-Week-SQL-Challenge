@@ -1,6 +1,6 @@
 # 8-Week SQL Challenge: 🍣 Danny's Diner Data Adventure 🚀
 
-(https://user-images.githubusercontent.com/26268796/187030142-f7b24fdd-8868-4fa6-8d72-1b9f47a22bca.png)
+![Danny's Diner Logo](https://user-images.githubusercontent.com/26268796/187030142-f7b24fdd-8868-4fa6-8d72-1b9f47a22bca.png)
 
 ## Dive into the World of SQL with Danny's Diner Case Study!
 
